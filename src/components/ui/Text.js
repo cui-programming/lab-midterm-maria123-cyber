@@ -1,6 +1,5 @@
 import React from 'react';
 import { Text as RNText } from 'react-native';
-
 /**
  * UI/Text
  * A very thin wrapper over React Native's Text.
